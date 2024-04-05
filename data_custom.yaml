@@ -1,0 +1,6 @@
+train: C:\Users\athar\OneDrive\Desktop\tmsss\train
+val: C:\Users\athar\OneDrive\Desktop\tmsss\val
+
+nc: 1
+
+names: ["Uno"]
